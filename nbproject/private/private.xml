@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JKTV21/Java/WebShoeShop/web/WEB-INF/shoe/listShoe.jsp</file>
+            <file>file:/D:/JKTV21/Java/WebShoeShop/src/java/entity/Shoe.java</file>
+            <file>file:/D:/JKTV21/Java/WebShoeShop/src/java/entity/Cover.java</file>
+            <file>file:/D:/JKTV21/Java/WebShoeShop/src/java/servlets/InsertServlet.java</file>
+            <file>file:/D:/JKTV21/Java/WebShoeShop/src/java/servlets/UploadServlet.java</file>
+            <file>file:/D:/JKTV21/Java/WebShoeShop/src/java/servlets/ShoeServlet.java</file>
+            <file>file:/D:/JKTV21/Java/WebShoeShop/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
